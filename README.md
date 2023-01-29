@@ -1,0 +1,5 @@
+# Rhon
+
+## License
+
+[MIT](./LICENSE)
